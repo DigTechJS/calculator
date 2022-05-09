@@ -2,6 +2,7 @@ html, body{
     font-family: 'Roboto', sans-serif;
     height:100%;
     width:100%;
+    background-color:rgb(227, 171, 171)
 }
 .button{
     padding:1.3vh;
