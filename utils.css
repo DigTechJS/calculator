@@ -1,0 +1,27 @@
+.textCenter{
+    text-align: center;
+}
+.bg-red{
+    background-color:red;
+}
+.mx-auto{
+    margin:auto;
+}
+
+.max-width-20{
+    /* max-width: 60vw; */
+    width:60%
+}
+
+.flex{
+    display: flex;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.items-center{
+    align-items: center;
+    justify-content: center;
+}

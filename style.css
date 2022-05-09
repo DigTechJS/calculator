@@ -1,0 +1,31 @@
+html, body{
+    font-family: 'Roboto', sans-serif;
+    height:100%;
+    width:100%;
+}
+.button{
+    padding:1.3vh;
+    margin:.3vh;
+    border:2px solid black;
+    border-radius:.3rem;
+    cursor: pointer;
+    height:5vh;
+    width:6vh;
+}
+.row{
+    margin:.3vh;
+}
+
+.row input{
+    font-size: 1.2rem;
+    margin:.3rem;
+    border:2px solid blackred;
+    border-radius:.3rem;
+    padding:.2rem;
+}
+
+.container{
+    border:3px solid rgb(208, 38, 38);
+    border-radius:.3rem;
+    background-color: rgb(146, 221, 236);
+}
